@@ -14,7 +14,7 @@
         "email": "tinycore.lab@autistici.org"
     },
     "state": {
-        "open": true,   // This is the key value we will update with Lambda
+        "open": true,
         "lastchange": 1633072800
     }
 }
