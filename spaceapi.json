@@ -1,0 +1,20 @@
+{
+    "api": "0.13",
+    "space": "~/tinycore.lab",
+    "logo": "https://wiki.hackerspaces.org/images/5/5d/Tinycore.lab-logo.jpg",
+    "url": "https://tinycorelab.noblogs.org",
+    "location": {
+        "address": "Litochoro, Greece",
+        "lon": 22.497811,
+        "lat": 40.096775
+    },
+    "contact": {
+        "x": "@tinycore_lab",
+        "mastodon": "@tinycore_lab@astrodon.social"
+        "email": "tinycore.lab@autistici.org"
+    },
+    "state": {
+        "open": true,   // This is the key value we will update with Lambda
+        "lastchange": 1633072800
+    }
+}
