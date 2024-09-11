@@ -1,0 +1,55 @@
+Privacy Policy for tinycore-api
+
+Effective Date: 2024-09-11
+
+"tinycore-api" is developed to integrate with smart sensors and notify users about the status of a space (e.g., whether the space is open or closed). We take your privacy seriously and are committed to protecting the personal data of all users.
+Information We Collect
+
+When you use tinycore-api, we may collect the following information:
+
+    Account Information: We collect your Amazon user ID and profile information when you link your Amazon account with our skill through account linking.
+    Sensor Data: We collect and process information from your smart devices (such as door sensors or light sensors) to determine the status of the space (e.g., whether it’s open or closed).
+
+We do not collect personally identifiable information unless necessary for the functionality of the skill.
+How We Use Your Information
+
+We use the collected data to:
+
+    Provide Core Skill Functionality: Sensor data is used to notify you about the status of the space, whether it's open or closed.
+    Account Linking: Your Amazon account information is used to enable account linking, so you can control your smart devices with Alexa and receive space status updates.
+
+How We Store and Protect Your Information
+
+We store your data securely using Amazon Web Services (AWS), which provides industry-standard security measures. We take all necessary steps to protect your data from unauthorized access, disclosure, alteration, or destruction.
+
+How We Share Your Information
+
+We do not share your personal data with third parties except as necessary to operate the skill. We may share your data with:
+
+    Third-Party Services: If required for functionality, such as API services for processing space status updates.
+
+We do not sell, rent, or lease your data to any other parties.
+
+Your Rights and Control Over Your Data
+
+You have the right to:
+
+    Access the Data We Collect: You can request to view the data we have collected.
+    Request Data Deletion: You can request the deletion of your data by contacting us at the email provided below.
+    Revoke Permissions: You can unlink your Amazon account from the skill at any time through the Alexa app.
+
+Data Retention
+
+We retain your data only as long as necessary to provide the skill’s services. If you unlink the skill or request deletion, we will remove all collected data within a reasonable time.
+Third-Party Services
+
+Our skill may interact with third-party services (e.g., Space API) to update the status of a space. These services may have their own privacy policies governing their use of your information.
+Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. When we do, we will notify you by updating the "Effective Date" at the top of this page.
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+tinycore.lab
+tinycore.lab@autistici.org
